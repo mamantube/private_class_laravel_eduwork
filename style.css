@@ -1,18 +1,7 @@
-.menu {
-    text-decoration: none;
-    color: black;
-}
-
-.line {
-    height: 5px;
-    background-color: rgb(234, 255, 0);
-    width: 70px;
-}
-
-p {
-    line-height: 35px;
-}
-
-.text-content {
-    padding: 20px;
+body {
+    background-image: url(bg.png);
+    background-size: cover;
+    background-attachment: fixed; 
+    background-position: center;
+    background-repeat: no-repeat;
 }
